@@ -8,3 +8,20 @@
       -1주: 로그인
       -2주: 게시판
       -3주: 뉴스
+## 아래의 코드를 참고 하세요~
+<%@page import="com.mbcac.board.BoardDAO2"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" 
+	trimDirectiveWhitespaces="true"
+    pageEncoding="UTF-8"%>
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>
+
+<jsp:useBean id="dao" class="com.mbcac.board.BoardDAO2" />
+
+<jsp:useBean id="boa" class="com.mbcac.board.BoardVO2">
+	<jsp:setProperty name="boa" property="*" />
+</jsp:useBean>
+
+<c:set var="bnum" value="${dao.add(boa)}"/>
+
+{"added":${bnum>0}, "bnum" :${bnum}}
