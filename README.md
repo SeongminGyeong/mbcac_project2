@@ -165,3 +165,5 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 
 
 someday
+
+friend
