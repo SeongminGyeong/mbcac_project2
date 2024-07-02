@@ -144,4 +144,5 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 </jsp:useBean>
 <c:set var="added" value="${dao.add(board)}"/>
 {"added":${added}}
+```
 [go to top](#top)
