@@ -88,7 +88,7 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 {"added":${added}}
 ```
 [Top▲](#top)
-```
+
 
 <a name="code4">로그인2</a> 
 ```jsp
@@ -106,7 +106,7 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 {"added":${added}}
 ```
 [Top▲](#top)
-```
+
 
 <a name="code5">게시판2</a> 
 ```jsp
@@ -124,7 +124,7 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 {"added":${added}}
 ```
 [Top▲](#top)
-```
+
 
 <a name="code5">뉴스2</a>  
 ```jsp
