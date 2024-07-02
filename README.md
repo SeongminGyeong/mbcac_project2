@@ -37,7 +37,7 @@
 $\color{#ff0000}{\textsf{색상 설정}}$  
 <p>
    
-<a name="code1">로그인</a>  [Top▲](#top)
+<a name="code1">로그인</a>  
 ```jsp
 <%@ page language="java" contentType="application/json; charset=UTF-8"
     pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
@@ -52,7 +52,9 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 <c:set var="added" value="${dao.add(board)}"/>
 {"added":${added}}
 ```
-<a name="code2">게시판</a>  [Top▲](#top)
+[Top▲](#top)
+```
+<a name="code2">게시판</a>  
 ```jsp
 <%@ page language="java" contentType="application/json; charset=UTF-8"
     pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
@@ -67,8 +69,10 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 <c:set var="added" value="${dao.add(board)}"/>
 {"added":${added}}
 ```
+[Top▲](#top)
+```
 
-<a name="code3">뉴스</a>  [Top▲](#top)
+<a name="code3">뉴스</a>  
 ```jsp
 <%@ page language="java" contentType="application/json; charset=UTF-8"
     pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
@@ -83,8 +87,10 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 <c:set var="added" value="${dao.add(board)}"/>
 {"added":${added}}
 ```
+[Top▲](#top)
+```
 
-<a name="code4">로그인2</a>  [Top▲](#top)
+<a name="code4">로그인2</a> 
 ```jsp
 <%@ page language="java" contentType="application/json; charset=UTF-8"
     pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
@@ -99,8 +105,10 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 <c:set var="added" value="${dao.add(board)}"/>
 {"added":${added}}
 ```
+[Top▲](#top)
+```
 
-<a name="code5">게시판2</a>  [Top▲](#top)
+<a name="code5">게시판2</a> 
 ```jsp
 <%@ page language="java" contentType="application/json; charset=UTF-8"
     pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
@@ -115,8 +123,10 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 <c:set var="added" value="${dao.add(board)}"/>
 {"added":${added}}
 ```
+[Top▲](#top)
+```
 
-<a name="code5">뉴스2</a>  [Top▲](#top)
+<a name="code5">뉴스2</a>  
 ```jsp
 <%@ page language="java" contentType="application/json; charset=UTF-8"
     pageEncoding="UTF-8" trimDirectiveWhitespaces="true"%>
@@ -131,4 +141,4 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 <c:set var="added" value="${dao.add(board)}"/>
 {"added":${added}}
 ```
-[go to top](#top)
+[Top▲](#top)
