@@ -162,3 +162,6 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 * git init
 * git clone [원격 저장소 주소]
 * git config --list  <-- origin 이라는 이름으로 저장소의 주소가 등록된 것을 확인
+
+
+someday
