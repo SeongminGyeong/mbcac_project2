@@ -12,7 +12,6 @@
       		-3주: 뉴스
   
 ## 아래의 코드를 참고 하세요~
-<p>
 <a name="code1">code1</a>	
 ```jsp
 <%@page import="com.mbcac.board.BoardDAO2"%>
