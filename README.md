@@ -7,13 +7,13 @@
 	* 1달: 설계
 	* 1달: 구현
   
-      		-1주: 로그인
+      		-1주: 로그인<a name="log"></a>
       		-2주: 게시판
       		-3주: 뉴스
   
 ## 아래의 코드를 참고 하세요~
 
-<a name="code1">code1</a>
+<a name="code1">code1</a>[go to 로그인](#log)
 	
 ```jsp
 
@@ -39,8 +39,7 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 
 
 
-
-<a name="code2">code2</a> [go to top](#top)
+<a name="code2">code2</a> 
 
 ```jsp
 <%@page import="com.mbcac.board.BoardDAO2"%>
@@ -57,3 +56,4 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 </jsp:useBean>
 
 <c:set var="bnum" value="${dao.add(boa)}"/>
+[go to top](#top)
