@@ -7,13 +7,13 @@
 	* 1달: 설계
 	* 1달: 구현
   
-      		-1주: 로그인<a name="log"></a>
+      		-1주: 로그인 <a name="log"></a>
       		-2주: 게시판
       		-3주: 뉴스
   
 ## 아래의 코드를 참고 하세요~
 
-<a name="code1">code1</a>[go to 로그인](#log)
+<a name="code1">code1</a> [로그인](#log)
 	
 ```jsp
 
