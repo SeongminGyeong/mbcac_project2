@@ -179,7 +179,7 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 * git commit n 변경내역에 기록할 메시지"
 * glt status : 위에서 commit 한 정보가 확인되는지
 * git push origin main : 최종적으로 로컬 프로젝트를 원격 저장소(origin)의 main 브랜치에 병합한다
-*pithub.com에 접속하여 해당 파일의 내용이 변경되어 있는지 확인한다.
+* pithub.com에 접속하여 해당 파일의 내용이 변경되어 있는지 확인한다.
 
 someday
 
