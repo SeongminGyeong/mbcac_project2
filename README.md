@@ -53,7 +53,7 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 {"added":${added}}
 ```
 [Top▲](#top)
-```
+
 <a name="code2">게시판</a>  
 ```jsp
 <%@ page language="java" contentType="application/json; charset=UTF-8"
@@ -70,7 +70,7 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 {"added":${added}}
 ```
 [Top▲](#top)
-```
+
 
 <a name="code3">뉴스</a>  
 ```jsp
