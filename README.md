@@ -144,12 +144,4 @@ $\color{#ff0000}{\textsf{색상 설정}}$
 </jsp:useBean>
 <c:set var="added" value="${dao.add(board)}"/>
 {"added":${added}}
-```
-
-
-<jsp:useBean id="boa" class="com.mbcac.board.BoardVO2">
-	<jsp:setProperty name="boa" property="*" />
-</jsp:useBean>
-
-<c:set var="bnum" value="${dao.add(boa)}"/>
 [go to top](#top)
