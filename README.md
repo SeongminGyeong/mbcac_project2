@@ -1,5 +1,6 @@
 # mbcac_project2
 ## 팀 프로젝트 안내
+<a name="top"></a>
 ### 주제: 열심히 하자
 * 기간: 3달
 	* 1달: 분석
@@ -35,7 +36,7 @@
 $\color{#ff0000}{\textsf{색상 설정}}$
 
 
-<a name="code2">code1</a> [go to top] (#top)
+<a name="code2">code1</a> [go to top](#top)
 ```jsp
 <%@page import="com.mbcac.board.BoardDAO2"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8" 
