@@ -13,8 +13,10 @@
   
 ## 아래의 코드를 참고 하세요~
 <p>
-<a name="code1">code1</a>	
+<a name="code1">code1</a>
+	
 ```jsp
+
 <%@page import="com.mbcac.board.BoardDAO2"%>
 <%@ page language="java" contentType="text/html; charset=UTF-8" 
 	trimDirectiveWhitespaces="true"
